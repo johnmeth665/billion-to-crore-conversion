@@ -511,7 +511,7 @@ body{font-family:'DM Sans',sans-serif;background:#fffbfa;color:#3e1c17}
       </div>
       <div class="md:col-span-1 flex justify-center">
        <div class="w-48 h-48 rounded-2xl overflow-hidden border-4 border-brand-200 shadow-lg">
-        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&amp;h=400&amp;fit=crop" alt="John Meth" loading="lazy" class="w-full h-full object-cover" onerror="console.error('Image failed to load:', this.src); this.style.background='linear-gradient(135deg, #f97066, #fbd5d0)'; this.alt='John Meth Profile';">
+        <img src="https://pin.it/3mstJk85p;h=400&amp;fit=crop" alt="John Meth" loading="lazy" class="w-full h-full object-cover" onerror="console.error('Image failed to load:', this.src); this.style.background='linear-gradient(135deg, #f97066, #fbd5d0)'; this.alt='John Meth Profile';">
        </div>
       </div>
      </div>
